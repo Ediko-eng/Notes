@@ -73,6 +73,13 @@ Opening a saved note brings up this screen. The title "wer" is editable, as is t
 ## ⚙️ Installation & Usage
 
 ### 1. Clone the repository
-```bash
+```bash  
 git clone [https://github.com/Ediko-eng/Notes-App.git](https://github.com/Ediko-eng/Notes-App.git)
 cd Notes-App
+```
+---
+
+
+# ⚖️ License
+This project is licensed under the MIT License. 
+For the full legal text, please visit: [Official License Link](https://github.com/Ediko-eng/Notes/blob/main/LICENSE)
