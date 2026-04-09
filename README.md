@@ -18,7 +18,7 @@ Below is a visual guide to the application's interface and core workflow, demons
 ### 1. The Home Screen
 A view of the Android home screen where the "Notes" application icon is located alongside other system apps.
 
-<img src="images/app_icons.png" width="280" alt="Android Home Screen with Notes App">
+<img src="app_icons.png" width="280" alt="Android Home Screen with Notes App">
 
 ### 2. Main Note List (Empty State)
 The primary screen upon opening the app. This dark-themed view shows an empty list with a pencil icon and a clear instruction: "No notes yet. Tap + to add your first note." A prominent yellow "+ New Note" button is in the corner.
