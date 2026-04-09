@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_search">Search</string>
+    <string name="action_delete_selected">Delete Selected</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete_notes">Delete Notes</string>
+    <string name="delete_confirmation">Are you sure you want to delete \"%1$s\"?</string>
+    <string name="delete_multiple_confirmation">Delete %1$d selected notes?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="note_saved">Note saved</string>
+    <string name="note_updated">Note updated</string>
+    <string name="no_notes">No notes yet</string>
+    <string name="add_first_note">Tap + to add your first note</string>
+    <string name="selected_count">%1$d selected</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="pinned">Pinned</string>
+    <string name="share_note_via">Share Note via</string>
+    <string name="empty_error">Title and content cannot be empty</string>
+    <string name="back">Back</string>
+    <string name="save_note">Save Note</string>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Start typing your note...</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
