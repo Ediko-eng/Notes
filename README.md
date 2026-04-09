@@ -18,27 +18,27 @@ Below is a visual guide to the application's interface and core workflow, demons
 ### 1. The Home Screen
 A view of the Android home screen where the "Notes" application icon is located alongside other system apps.
 
-<img src="images/image_0.png" width="280" alt="Android Home Screen with Notes App">
+<img src="images/app_icons.png" width="280" alt="Android Home Screen with Notes App">
 
 ### 2. Main Note List (Empty State)
 The primary screen upon opening the app. This dark-themed view shows an empty list with a pencil icon and a clear instruction: "No notes yet. Tap + to add your first note." A prominent yellow "+ New Note" button is in the corner.
 
-<img src="images/image_1.png" width="280" alt="App Main List - Empty State">
+<img src="images/Main_page.png" width="280" alt="App Main List - Empty State">
 
 ### 3. Creating a New Note
 This screen is accessed by tapping the "+ New Note" button. It provides a dedicated "Title" field and a "Start typing your note..." area, accompanied by navigation options and a bright yellow "Save Note" button.
 
-<img src="images/image_2.png" width="280" alt="Creating a New Note Screen">
+<img src="images/saving.png" width="280" alt="Creating a New Note Screen">
 
 ### 4. Note List with Content
 The main list screen now displays a single note snippet titled "wer," demonstrating how multiple notes populate the view. The screen retains the "Notes" title and the "+ New Note" button.
 
-<img src="images/image_3.png" width="280" alt="Note List with Content">
+<img src="images/savin1.png" width="280" alt="Note List with Content">
 
 ### 5. View/Edit an Existing Note
 Opening a saved note brings up this screen. The title "wer" is editable, as is the body content. Additional context-sensitive options are now visible in the top navigation bar: Back, Delete (pink), Share, and Pin.
 
-<img src="images/image_4.png" width="280" alt="Editing an Existing Note">
+<img src="images/savin2.png" width="280" alt="Editing an Existing Note">
 
 ---
 
